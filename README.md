@@ -16,7 +16,7 @@ U-FRETサイト上の広告要素を自動削除するChrome拡張機能。
 
 ### リリース版からインストール（推奨）
 
-1. [GitHubのリリースページ](https://github.com/[ユーザー名]/Ufret-Ad-blocker/releases)から最新のリリースを開く
+1. [GitHubのリリースページ](https://github.com/myml12/Ufret-Ad-Blocker/releases)から最新のリリースを開く
 2. `Ufret-Ad-blocker-vX.X.X.zip` をダウンロード
 3. ダウンロードしたzipファイルを解凍する
 4. Chromeで `chrome://extensions/` を開く
