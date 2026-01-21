@@ -1,0 +1,14 @@
+# Chrome拡張機能の開発ファイル
+*.crx
+*.pem
+.DS_Store
+
+# ログファイル
+*.log
+
+# エディタ設定
+.vscode/
+.idea/
+*.swp
+*.swo
+
